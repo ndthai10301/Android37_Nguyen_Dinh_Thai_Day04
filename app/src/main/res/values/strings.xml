@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nguyen_Dinh_Thai</string>
+    <string name="init_name">Họ và Tên</string>
+    <string name="init_date">20/09/2019</string>
+    <string name="init_phone">0936 472561</string>
+    <string name="init_title">Danh sách cuộc gọi</string>
+    <string name="init_lienhe">Liên hệ không xác định</string>
+    <string name="init_chitiet">Chi tiết cuộc gọi</string>
+</resources>
